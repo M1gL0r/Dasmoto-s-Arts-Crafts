@@ -1,0 +1,48 @@
+body{
+    font-family: Helvetica;
+}
+
+h1{
+    font-size: 100px;
+    text-align: center;
+    color:khaki;
+    padding:0 0 20px 0;
+    background-image: url(/Users/posto4/Desktop/MEUS/Codecademy/dasmoto/resources/images/pattern.jpeg);
+} 
+
+#brushes{ 
+    font-weight:bold 
+    font-size: 32px;
+    padding: 0 0 0 8px;
+    color: white;
+    background-color: mediumspringgreen;
+}
+
+#frames{
+    font-weight:bold
+    font-size:32px;
+    padding: 0 0 0 8px;
+    color: white;
+    background-color: lightcoral;
+}
+
+#paint{
+    font-weight:bold
+    padding: 0 0 0 8px;
+    font-size:32px;
+    color: white;
+    background-color:skyblue;
+}
+
+.prices{
+    color: blue;
+    font-weight:bold
+}
+
+p{
+    padding: 0 0 0 8px;
+}
+
+h4{
+    padding: 0 0 0 8px;
+}
